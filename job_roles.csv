@@ -1,0 +1,10 @@
+Role,Department,Required_Skills
+Healthcare Representative,Healthcare,patient care,healthcare regulations,communication,crm,medical terminology,data reporting,excel
+Human Resources,Human Resources,recruitment,employee relations,performance management,hr policies,communication,onboarding,excel
+Laboratory Technician,Research & Development,lab techniques,data analysis,python,excel,research methodology,documentation,quality control
+Manager,Management,leadership,project management,budgeting,stakeholder management,communication,excel,strategic planning
+Manufacturing Director,Manufacturing,supply chain,operations management,lean manufacturing,quality control,budgeting,leadership,excel
+Research Director,Research & Development,research methodology,leadership,data analysis,python,publication,strategic planning,budgeting
+Research Scientist,Research & Development,python,research methodology,data analysis,statistics,machine learning,documentation,sql
+Sales Executive,Sales,crm,negotiation,communication,salesforce,excel,lead generation,data analysis
+Sales Representative,Sales,crm,communication,negotiation,lead generation,excel,salesforce,customer service
