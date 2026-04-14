@@ -1,6 +1,6 @@
 streamlit
 pandas
-catboost==1.2.8
+catboost
 PyPDF2
 scikit-learn
 numpy
